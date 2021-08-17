@@ -1,0 +1,10 @@
+D:\Projeler\Digital  Clock\Digital  Clock\bin\Debug\Digital  Clock.exe.config
+D:\Projeler\Digital  Clock\Digital  Clock\bin\Debug\Digital  Clock.exe
+D:\Projeler\Digital  Clock\Digital  Clock\bin\Debug\Digital  Clock.pdb
+D:\Projeler\Digital  Clock\Digital  Clock\obj\Debug\Digital  Clock.csprojAssemblyReference.cache
+D:\Projeler\Digital  Clock\Digital  Clock\obj\Debug\Digital__Clock.DigitalClock.resources
+D:\Projeler\Digital  Clock\Digital  Clock\obj\Debug\Digital__Clock.Properties.Resources.resources
+D:\Projeler\Digital  Clock\Digital  Clock\obj\Debug\Digital  Clock.csproj.GenerateResource.cache
+D:\Projeler\Digital  Clock\Digital  Clock\obj\Debug\Digital  Clock.csproj.CoreCompileInputs.cache
+D:\Projeler\Digital  Clock\Digital  Clock\obj\Debug\Digital  Clock.exe
+D:\Projeler\Digital  Clock\Digital  Clock\obj\Debug\Digital  Clock.pdb
